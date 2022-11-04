@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ItsCinamon
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning Java and Python
