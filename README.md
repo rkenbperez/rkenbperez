@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ken Perez</h1>
+<h1 align="center">Hi ✌️, I'm Ken Perez</h1>
 <h3 align="center">A Student that is interested in Java and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
@@ -19,4 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkenbperez&show_icons=true&locale=en&layout=compact" alt="rkenbperez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkenbperez&show_icons=true&locale=en" alt="rkenbperez" /></p>
+![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkenbperez&show_icons=true&theme=radical)
 
