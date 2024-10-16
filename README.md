@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
 
-
-- 🔭 I’m currently working on [Simple Login App](https://github.com/rkenbperez/Login-App-)
-
 - 🌱 I’m currently learning **☕Java And Python🐍**
 
 <h3 align="left">Connect with me:</h3>
