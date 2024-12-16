@@ -1,4 +1,5 @@
-<h1 align="center">Hi ✌️, I'm Ken Perez</h1>
+<h1 align="center">🚀 Ken Perez</h1>
+**`Studeny/Developer/Photographer`**
 <h3 align="center">A Student that is interested in Java and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
