@@ -24,7 +24,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkenbperez&show_icons=true&locale=en&layout=compact" alt="rkenbperez" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkenbperez&theme=dark&show_icons=true_theme=holi)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkenbperez&show_icons=true&locale=en" alt="rkenbperez" /></p>
 
