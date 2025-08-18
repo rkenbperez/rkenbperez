@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
 
 - 🌱 I’m currently learning Flask, DJango, MongoDB
+- A Computer Science student passionate about coding, building web apps, and learning new technologies. Always exploring projects to improve my skills and create useful, fun applications.
 
 <h3 align="left">Connect with me:
   <a href="https://www.linkedin.com/in/ralph-kenneth-perez-609064319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwzgfCZzjSLqHtLfFXUDIXA%3D%3D">LinkedIn</>
