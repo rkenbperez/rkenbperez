@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Flask, DJango, MongoDB
 - A Computer Science student passionate about coding, building web apps, and learning new technologies. Always exploring projects to improve my skills and create useful, fun applications.
 - ## 🏆 Certifications
-![SoloLearn Python Certificate](e60afb3f-c820-4478-96e1-29a533553fe7](https://github.com/user-attachments/assets/a773b0d6-3a2b-4e00-bde4-6a90ef533f01)
-)
+![SoloLearn Python Certificate]([d7624ab7-4718-445b-a7bc-322c84ed1a0b.pdf](https://github.com/user-attachments/files/21849840/d7624ab7-4718-445b-a7bc-322c84ed1a0b.pdf)
+
 - [Python Fundamentals - SoloLearn](https://www.sololearn.com/certificates/CC-O1S6PP9H)
 
 <h3 align="left">Connect with me:
