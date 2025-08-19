@@ -4,6 +4,9 @@
 
 - 🌱 I’m currently learning Flask, DJango, MongoDB
 - A Computer Science student passionate about coding, building web apps, and learning new technologies. Always exploring projects to improve my skills and create useful, fun applications.
+- ## 🏆 Certifications
+![SoloLearn Python Certificate](link-to-certificate-image)
+- [Python Fundamentals - SoloLearn](https://www.sololearn.com/certificates/CC-O1S6PP9H)
 
 <h3 align="left">Connect with me:
   <a href="https://www.linkedin.com/in/ralph-kenneth-perez-609064319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwzgfCZzjSLqHtLfFXUDIXA%3D%3D">LinkedIn</>
