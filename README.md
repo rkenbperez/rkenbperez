@@ -32,6 +32,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkenbperez&theme=dark&show_icons=true_theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkenbperez&theme=holi&show_icons=true_)
 
 
