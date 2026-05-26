@@ -2,15 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
 
-- 🌱 I’m currently learning Flask, DJango, MongoDB
-- 🧑🏻‍💻 On going project NoteFlow
+- 🌱 I’m currently Django
 - A Computer Science student passionate about coding, building web apps, and learning new technologies. Always exploring projects to improve my skills and create useful, fun applications.
-- ## 🏆 Certifications
-<img src="https://github.com/user-attachments/assets/e355cc27-681b-4a2a-b83c-c146c12a0376" alt="SoloLearn Python Certificate" width="200">
-
-
-
-- [Python Fundamentals - SoloLearn](https://www.sololearn.com/certificates/CC-O1S6PP9H)
 
 <h3 align="left">Connect with me:
   <a href="https://www.linkedin.com/in/ralph-kenneth-perez-609064319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwzgfCZzjSLqHtLfFXUDIXA%3D%3D">LinkedIn</>
