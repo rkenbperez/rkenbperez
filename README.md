@@ -1,7 +1,6 @@
 <h1 align="center">🚀 Ken Perez</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkenbperez&label=Profile%20views&color=0e75b6&style=flat" alt="rkenbperez" /> </p>
-![](https://komarev.com/ghpvc/?username=rkenbperez)
 
 - 🌱 I’m currently Django
 - A Computer Science student passionate about coding, building web apps, and learning new technologies. Always exploring projects to improve my skills and create useful, fun applications.
